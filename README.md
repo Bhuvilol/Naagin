@@ -24,7 +24,7 @@ The code is well commented, if you have any questions or want to continue this p
 
 #### How to play the game:
 
-* Just download the Snakegame.jar file
+* Just download the Naagin.jar file
 * Run it 
 * Start playing with the A W S D keys. 
 * If you lose, just close it and re-open it (I will add a restart button possibly)
